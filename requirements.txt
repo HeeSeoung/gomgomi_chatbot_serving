@@ -1,4 +1,4 @@
-pytorch
+torch
 transformers
 numpy
 fastapi==0.75.1
