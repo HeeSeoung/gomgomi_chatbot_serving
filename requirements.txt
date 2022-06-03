@@ -1,6 +1,5 @@
-# torch
-# transformers
-# numpy
+torch
+transformers
 fastapi==0.75.1
 uvicorn==0.17.6
 mxnet
