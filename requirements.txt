@@ -1,5 +1,10 @@
-torch
-transformers
-numpy
+# torch
+# transformers
+# numpy
 fastapi==0.75.1
 uvicorn==0.17.6
+mxnet
+gluonnlp
+tqdm
+sentencepiece
+konlpy
